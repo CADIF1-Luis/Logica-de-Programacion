@@ -1,0 +1,25 @@
+Algoritmo: Comprar Entradas en el Cine
+
+Si tienes la aplicacion para comprar entradas ya instalada en tu telefono:
+    - Entrar a la aplicacion
+    - Si tienes ya una cuenta registrada:
+        * Haz login con tus datos para entrar a tu cuenta
+        * Buscar en la cartelera online la pelicula que deseas ver
+        * Seleccionar la pelicula con el respectivo horario de tu preferencia
+        * Entrar al enlace de "Comprar Entradas"
+        * Selecciona cuantas entradas necesitas
+        * Confirmar la pelicula, su horario y el numero de asientos
+        * Finalizar la compra ingresando tus datos bancarios y dandole click a "Confirmar Compra"
+        * Chequear que tus entradas hayan llegado a tu correo electronico
+
+    - Si no tienes ya una cuenta registrada:
+        * Buscar la opcion "Registrarse" o "Crear Cuenta"
+        * Proveer los datos especificados (Correo electronico, contraseña, etc)
+        * Presionar el boton de registrar para enviar tus datos a la aplicacion y asi tener registrar tu cuenta
+
+Si no tienes la aplicacion para comprar entradas ya instalada en tu telefono:
+    - Entrar a la tienda de aplicaciones en tu telefono
+    - Buscar la aplicacion especifica para comprar entradas
+    - Descargar la aplicacion
+    - Instalar la aplicacion
+    
